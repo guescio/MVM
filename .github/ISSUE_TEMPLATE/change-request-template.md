@@ -2,7 +2,7 @@
 name: Change request template
 about: Use this template whether it is for a bug, a new feature or a requirement.
 title: ''
-labels: ''
+labels: medium priority, pending review
 assignees: guescio
 
 ---

@@ -1,0 +1,6 @@
+[submodule "gui"]
+	path = gui
+	url = git@github.com:guescio/gui.git
+[submodule "MVMFirmwareCpp"]
+	path = MVMFirmwareCpp
+	url = git@github.com:guescio/MVMFirmwareCpp.git
